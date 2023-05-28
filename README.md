@@ -6,4 +6,4 @@
  <smail>Always bet on black.<smail>
  </p>
 <br>
-<img alt="little snake" src="https://github.com/mnlyx/mnlyx/github-contribution-grid-snake.svg"/>
+<img alt="little snake" src="https://github.com/mnlyx/mnlyx/hh.svg"/>
