@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @montali
-- 👀 I’m interested in  *JS*
-- 🌱 I’m currently learning  GDScript e JavaScript
-- 📫 How to reach me Discord: montali#3080
-
-<!---
-mnlyx/mnlyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+ <img src="https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/d864300df6e07477d3912a155433711750bf6bee/imagens/dazai.png" alt="profile"/>
+</div>
+<br>
+ <p align="center">
+ <smail>Always bet on black.<smail>
+ </p>
+<br>
+<img alt="little snake" src="https://github.com/mnlyx/mnlyx/blob/output/github-contribution-grid-snake.svg"/>
